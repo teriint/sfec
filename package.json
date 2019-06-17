@@ -24,17 +24,17 @@
     "webpack-dev-server": "^3.7.1"
   },
   "name": "sfec_test",
-  "description": "Tasks for frontend courses",
+  "description": "Tasks for Shakuro Front-end courses",
   "version": "1.0.0",
   "main": "webpack.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/teriint/sfec_test.git"
+    "url": "git+https://github.com/teriint/sfec.git"
   },
   "author": "AVolkov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/teriint/sfec_test/issues"
+    "url": "https://github.com/teriint/sfec/issues"
   },
-  "homepage": "https://github.com/teriint/sfec_test#readme"
+  "homepage": "https://github.com/teriint/sfec#readme"
 }
